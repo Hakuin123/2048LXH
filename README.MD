@@ -5,9 +5,6 @@
 
 
 
-
-<font size="5">
-
 <details><summary></summary>
 
 <p>
@@ -16,4 +13,3 @@
 
 </p> </details>
 
-</font>
