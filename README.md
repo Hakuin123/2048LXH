@@ -1,9 +1,13 @@
 # Re2048LXH
-罗小黑版2048（重制版）  重制版作者@迷茫子  白隐Hakuin授权搬运
+罗小黑版2048（重制版）
 
-若需查看旧版，请切换分支至old
+重制版作者@迷茫子
 
-# [点击体验](https://hakuin123.github.io/LXH2048/2048lxh.html)
+@白隐Hakuin 授权搬运
+
+# [点击体验](https://2048lxh.HK256.top)
+
+[点击这里体验旧版本](https://2048lxh.HK256.top/old-version)
 
 
 
