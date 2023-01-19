@@ -10,7 +10,7 @@
 [点击这里体验旧版本](https://2048lxh.HK256.top/old-version)
 
 
-
+<!--
 <details><summary></summary>
 
 <p>
@@ -19,3 +19,4 @@
 
 </p> </details>
 
+-->
