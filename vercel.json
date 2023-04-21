@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/old-version", "dest": "/old-version/index.html" }
+    { "src": "/classic", "dest": "/classic/index.html" }
   ]
 }
