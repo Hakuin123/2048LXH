@@ -6,9 +6,18 @@
       "permanent": true
     },
     {
+      "source": "/classic/index.html/",
+      "destination": "/classic/",
+      "permanent": true
+    },
+    {
       "source": "/classic",
       "destination": "/classic/",
       "permanent": true
     }
-  ]
+  ],
+
+  "github": {
+    "silent": true
+  }
 }
