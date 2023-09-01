@@ -1,8 +1,13 @@
 {
   "redirects": [
     {
+      "source": "/classic/index.html",
+      "destination": "/classic",
+      "permanent": true
+    },
+    {
       "source": "/classic/",
-      "destination": "/classic/index.html"
-    }
+      "destination": "/classic",
+      "permanent": true
   ]
 }
