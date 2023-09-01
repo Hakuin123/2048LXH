@@ -1,6 +1,6 @@
 {
-  "routes": [
-    { "src": "/classic", "dest": "/classic/index.html" }
-    { "src": "/classic", "dest": "/classic/index.html/" }
+  "rewrites": [
+    { "source": "/classic", "destination": "/classic/index.html" }
+    { "source": "/classic", "destination": "/classic/index.html/" }
   ]
 }
