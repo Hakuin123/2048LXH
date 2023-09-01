@@ -9,5 +9,6 @@
       "source": "/classic/",
       "destination": "/classic",
       "permanent": true
+    }
   ]
 }
