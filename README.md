@@ -8,8 +8,8 @@
 
 重制版作者 @迷茫子
 
-[**在线体验**](https://2048lxh.HK256.top)
+[**在线体验**](https://2048lxh.hk256.dev)
 
-[旧版本](https://2048lxh.HK256.top/classic)
+[旧版本](https://2048lxh.hk256.dev/classic)
 
 Thanks for playing!
